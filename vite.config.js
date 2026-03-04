@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()
 
   ],
-  base: "react19-docker",
+  base: "dockerreact19app",
 
 });
